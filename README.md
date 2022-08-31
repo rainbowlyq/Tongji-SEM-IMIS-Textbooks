@@ -4,6 +4,8 @@
 
 欢迎 pull request 或者 email: 937839429@qq.com
 
+> 蓝奏云密码全为 **soda**
+
 # 目录
 
 - [通识必修课](#通识必修课)
@@ -65,13 +67,13 @@
 
 # 专业基础课
 
-- 010030_财务管理
+- 010030_财务管理 [ocr](https://wwc.lanzout.com/i7VYW0aqnppa) [习题答案](https://wwc.lanzout.com/ik6Uk0aqnpsd)
 - 010168_会计学
-- 010344_应用统计
+- 010344_应用统计 [第二版ocr](https://wwc.lanzout.com/ieWkw0aqnqlc)
 - 010420_组织行为学
 - 010429_管理信息系统(A)
-- 010632_运筹学
-- 010717_计量经济学
+- 010632_运筹学 [ocr](https://wwc.lanzout.com/iKoGF0aqnqta)
+- 010717_计量经济学 [第四版](https://wwc.lanzout.com/iELQa0aqnrda) [学习指南与练习](https://wwc.lanzout.com/iI6lZ0aqnrvi)
 - 011071_经济学
 - 011113_专业导论（经济管理类）
 
@@ -79,7 +81,7 @@
 
 - 010552_信息系统分析与设计
 - 010616_管理信息系统(B)
-- 010693_管理建模与仿真
+- 010693_管理建模与仿真 [仿真建模与分析（原书第5版）](https://wwc.lanzout.com/i8Z9p0aqns8b)
 - 010826_生产运作与管理
 - 010831_ERP原理及应用
 - 010832_IT项目管理与审计
@@ -99,7 +101,7 @@
 - 010810_项目管理
 - 010835_商务智能
 - 010839_物流与供应链管理
-- 010843_服务管理
+- 010843_服务管理 [ocr](https://wwc.lanzout.com/iB9oz0aqnscf)
 - 010845_决策模拟
 - 010989_互联网金融
 - 011060_逻辑学概论
