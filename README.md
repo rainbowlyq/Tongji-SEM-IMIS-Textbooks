@@ -40,7 +40,7 @@
 
 - 110178_大学英语(A)3
 - 110181_商务英语
-- 110260_跨文化交际 | [baidu](https://pan.baidu.com/s/1_Ub6WZUE_A6cJt5YjQWWLA?pwd=e53l)
+- [110260_跨文化交际](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E4%B8%8E%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F/%E9%80%9A%E8%AF%86%E5%BF%85%E4%BF%AE%E8%AF%BE/%E8%8B%B1%E8%AF%AD%E7%B1%BB/110260_%E8%B7%A8%E6%96%87%E5%8C%96%E4%BA%A4%E9%99%85) | [baidu](https://pan.baidu.com/s/1_Ub6WZUE_A6cJt5YjQWWLA?pwd=e53l)
 - 110277_大学英语四级
 - 110278_大学英语五级
 - 110279_大学英语(A)1
@@ -50,7 +50,7 @@
 - 110284_公共英语演讲
 - 110285_英美社会与文化
 - 110288_学术英语（文科类）
-- 110328_学术英语（理工类）| [baidu](https://pan.baidu.com/s/1P9Ns7kkzIqGfQkNwIMSB6g?pwd=ly48)
+- [110328_学术英语（理工类）](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E4%B8%8E%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F/%E9%80%9A%E8%AF%86%E5%BF%85%E4%BF%AE%E8%AF%BE/%E8%8B%B1%E8%AF%AD%E7%B1%BB/110328_%E5%AD%A6%E6%9C%AF%E8%8B%B1%E8%AF%AD%EF%BC%88%E7%90%86%E5%B7%A5%E7%B1%BB%EF%BC%89)| [baidu](https://pan.baidu.com/s/1P9Ns7kkzIqGfQkNwIMSB6g?pwd=ly48)
 - 110333_学术英语写作1
 - 110334_国际交流英语视听说1
 - 110339_新闻英语视听说
@@ -60,17 +60,17 @@
 
 ## 计算机类
 
-- 100373_C/C++程序设计
+- [100373_C/C++程序设计](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E4%B8%8E%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F/%E9%80%9A%E8%AF%86%E5%BF%85%E4%BF%AE%E8%AF%BE/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/100373_C%26C%2B%2B%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1)
 - 100529_大学计算机A
-- 100536_数据库技术与应用
+- [100536_数据库技术与应用](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E4%B8%8E%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F/%E9%80%9A%E8%AF%86%E5%BF%85%E4%BF%AE%E8%AF%BE/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/100536_%E6%95%B0%E6%8D%AE%E5%BA%93%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%BA%94%E7%94%A8)
 
 # 大类基础课
 
-- 010401_管理学概论
+- [010401_管理学概论](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E4%B8%8E%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F/%E5%A4%A7%E7%B1%BB%E5%9F%BA%E7%A1%80%E8%AF%BE%E7%A8%8B/010401_%E7%AE%A1%E7%90%86%E5%AD%A6%E6%A6%82%E8%AE%BA)
 - 122004_高等数学(B)上
 - 122005_高等数学(B)下
 - 122010_线性代数B
-- 122011_概率论与数理统计
+- [122011_概率论与数理统计](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E4%B8%8E%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F/%E5%A4%A7%E7%B1%BB%E5%9F%BA%E7%A1%80%E8%AF%BE%E7%A8%8B/122011_%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1)
 
 # 专业基础课
 
