@@ -119,23 +119,28 @@
 - 100531_Python程序设计
 - 100533_数据科学
 
-# 通识选修 [nav](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E9%80%9A%E8%AF%86%E9%80%89%E4%BF%AE)
-- 基于HTML5的APP开发教程
+# 通识选修
+- [基于HTML5的APP开发教程](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E9%80%9A%E8%AF%86%E9%80%89%E4%BF%AE)
+- 博弈论 | [baidu](https://pan.baidu.com/s/18kiSBYIDv1bIIPCtx604JQ?pwd=bvc7)
+- 建筑史相关 | [baidu](https://pan.baidu.com/s/1sF_Zw8eT0zjVHqTlrlpc8Q?pwd=fbor)
 
 # 其他专业
 
-## 德语强化班 [nav](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E5%BE%B7%E8%AF%AD%E5%BC%BA%E5%8C%96%E7%8F%AD)
-- 新编大学德语
+## 德语强化班
+- [新编大学德语](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E5%BE%B7%E8%AF%AD%E5%BC%BA%E5%8C%96%E7%8F%AD)
 
-## 数理金融/金融 [nav](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E6%95%B0%E7%90%86%E9%87%91%E8%9E%8D%26%E9%87%91%E8%9E%8D)
-- 复变函数与积分变换
-- 货币金融学
+## 数理金融/金融
+- [复变函数与积分变换](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E6%95%B0%E7%90%86%E9%87%91%E8%9E%8D%26%E9%87%91%E8%9E%8D)
+- [货币金融学](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E6%95%B0%E7%90%86%E9%87%91%E8%9E%8D%26%E9%87%91%E8%9E%8D)
+- 国际贸易学 | [baidu](https://pan.baidu.com/s/1YlAeWCtCyH4H5NialuWnLw?pwd=zh0v)
+- 常微分方程 | [baidu](https://pan.baidu.com/s/1AvWcaAZmuWaVwaN2pFKQtQ?pwd=eo6g)
+- 数学分析 | [baidu](https://pan.baidu.com/s/1TgSNGHtRkarR-rhptxSrdg?pwd=sler)
 
-## 工程管理 [nav](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E5%B7%A5%E7%A8%8B%E7%AE%A1%E7%90%86)
-- BIM应用导论
-- 工程项目管理
-- 建设法规教程
-- 土木工程施工技术
-- 系统工程 第5版 (汪应洛)
-- 运筹学教程（第5版） (胡运权 郭耀煌 龚益鸣 程佳惠 陈秉正)
+## 工程管理
+- [BIM应用导论](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E5%B7%A5%E7%A8%8B%E7%AE%A1%E7%90%86)
+- [工程项目管理](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E5%B7%A5%E7%A8%8B%E7%AE%A1%E7%90%86)
+- [建设法规教程](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E5%B7%A5%E7%A8%8B%E7%AE%A1%E7%90%86)
+- [土木工程施工技术](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E5%B7%A5%E7%A8%8B%E7%AE%A1%E7%90%86)
+- [系统工程 第5版 (汪应洛)](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E5%B7%A5%E7%A8%8B%E7%AE%A1%E7%90%86)
+- [运筹学教程（第5版） (胡运权 郭耀煌 龚益鸣 程佳惠 陈秉正)](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E5%B7%A5%E7%A8%8B%E7%AE%A1%E7%90%86)
 
