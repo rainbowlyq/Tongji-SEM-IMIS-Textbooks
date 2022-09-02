@@ -1,6 +1,6 @@
 # Tongji-SEM-Textbooks
 
-同济大学经济与管理学院本科课程教材电子版部分收录，持续更新ing...
+同济大学经济与管理学院【信息管理与信息系统】专业本科课程教材电子版部分收录（也会包含一些其他专业），持续更新ing...
 
 欢迎 pull request 或者 email: 937839429@qq.com
 
@@ -67,7 +67,7 @@
 
 # 专业基础课
 
-- 010030_财务管理 [ocr](https://wwc.lanzout.com/i7VYW0aqnppa) [习题答案](https://wwc.lanzout.com/ik6Uk0aqnpsd)
+- 010030_财务管理 [github](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E4%B8%8E%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F/%E4%B8%93%E4%B8%9A%E5%9F%BA%E7%A1%80%E8%AF%BE/010030_%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86) [ocr](https://wwc.lanzout.com/i7VYW0aqnppa) [习题答案](https://wwc.lanzout.com/ik6Uk0aqnpsd)
 - 010168_会计学
 - 010344_应用统计 [第二版ocr](https://wwc.lanzout.com/ieWkw0aqnqlc)
 - 010420_组织行为学
