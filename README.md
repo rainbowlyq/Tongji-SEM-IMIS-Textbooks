@@ -67,9 +67,9 @@
 # 大类基础课
 
 - [010401_管理学概论](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E4%B8%8E%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F/%E5%A4%A7%E7%B1%BB%E5%9F%BA%E7%A1%80%E8%AF%BE%E7%A8%8B/010401_%E7%AE%A1%E7%90%86%E5%AD%A6%E6%A6%82%E8%AE%BA)
-- 122004_高等数学(B)上
+- 122004_高等数学(B)上 | [baidu](https://pan.baidu.com/s/1S2uIvq1r0or8BjnP7Erv1A?pwd=d7kd)
 - 122005_高等数学(B)下
-- 122010_线性代数B
+- 122010_线性代数B | [baidu](https://pan.baidu.com/s/1pbYuzPaZPFlfeMqbl1ssIw?pwd=e3gn)
 - [122011_概率论与数理统计](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E4%B8%8E%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F/%E5%A4%A7%E7%B1%BB%E5%9F%BA%E7%A1%80%E8%AF%BE%E7%A8%8B/122011_%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1)
 
 # 专业基础课
@@ -81,7 +81,7 @@
 - [010429_管理信息系统(A)](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E4%B8%8E%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F/%E4%B8%93%E4%B8%9A%E5%9F%BA%E7%A1%80%E8%AF%BE/010429_%E7%AE%A1%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F(A))
 - [010632_运筹学](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E4%B8%8E%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F/%E4%B8%93%E4%B8%9A%E5%9F%BA%E7%A1%80%E8%AF%BE/010632_%E8%BF%90%E7%AD%B9%E5%AD%A6) | [ocr](https://wwc.lanzout.com/iKoGF0aqnqta)
 - [010717_计量经济学](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E4%B8%8E%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F/%E4%B8%93%E4%B8%9A%E5%9F%BA%E7%A1%80%E8%AF%BE/010717_%E8%AE%A1%E9%87%8F%E7%BB%8F%E6%B5%8E%E5%AD%A6) | [第四版](https://wwc.lanzout.com/iELQa0aqnrda) | [学习指南与练习](https://wwc.lanzout.com/iI6lZ0aqnrvi)
-- 011071_经济学
+- 011071_经济学 | [baidu](https://pan.baidu.com/s/1hqoVPoD9pXwXoaVX5Ux3nQ?pwd=yeyh)
 - 011113_专业导论（经济管理类）
 
 # 专业必修课
@@ -117,5 +117,22 @@
 - 100533_数据科学
 
 # 通识选修
-
+- 基于HTML5的APP开发教程
+- 
 # 其他专业
+
+## 德语强化班
+- 新编大学德语
+
+## 数理金融/金融
+- 复变函数与积分变换
+- 货币金融学
+
+## 工程管理
+- BIM应用导论
+- 工程项目管理
+- 建设法规教程
+- 土木工程施工技术
+- 系统工程 第5版 (汪应洛)
+- 运筹学教程（第5版） (胡运权 郭耀煌 龚益鸣 程佳惠 陈秉正)
+
