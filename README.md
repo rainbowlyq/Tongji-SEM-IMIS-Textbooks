@@ -119,19 +119,19 @@
 - 100531_Python程序设计
 - 100533_数据科学
 
-# 通识选修
+# 通识选修 [nav](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E9%80%9A%E8%AF%86%E9%80%89%E4%BF%AE)
 - 基于HTML5的APP开发教程
 
 # 其他专业
 
-## 德语强化班
+## 德语强化班 [nav]([https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E5%B7%A5%E7%A8%8B%E7%AE%A1%E7%90%86](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E5%BE%B7%E8%AF%AD%E5%BC%BA%E5%8C%96%E7%8F%AD))
 - 新编大学德语
 
-## 数理金融/金融
+## 数理金融/金融 [nav]([https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E5%B7%A5%E7%A8%8B%E7%AE%A1%E7%90%86](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E6%95%B0%E7%90%86%E9%87%91%E8%9E%8D%26%E9%87%91%E8%9E%8D))
 - 复变函数与积分变换
 - 货币金融学
 
-## [工程管理](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E5%B7%A5%E7%A8%8B%E7%AE%A1%E7%90%86)
+## 工程管理 [nav](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E5%B7%A5%E7%A8%8B%E7%AE%A1%E7%90%86)
 - BIM应用导论
 - 工程项目管理
 - 建设法规教程
