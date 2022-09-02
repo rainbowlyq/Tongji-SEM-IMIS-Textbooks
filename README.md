@@ -37,7 +37,7 @@
 - 540039_中国近现代史纲要
 - 540040_马克思主义基本原理概论
 - 540041_毛泽东思想和中国特色社会主义理论体系概论 | [2021版](https://pan.baidu.com/s/1kWic7FSPkxOTMWtc8pg33g?pwd=rdaq)
-- 540107_习近平新时代中国特色社会主义思想概论
+- [540107_习近平新时代中国特色社会主义思想概论](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E4%B8%8E%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F/%E9%80%9A%E8%AF%86%E5%BF%85%E4%BF%AE%E8%AF%BE/%E6%80%9D%E6%94%BF%E7%B1%BB/540107_%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%80%9D%E6%83%B3%E6%A6%82%E8%AE%BA)
 
 ## 英语类
 
@@ -144,3 +144,6 @@
 - [系统工程 第5版 (汪应洛)](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E5%B7%A5%E7%A8%8B%E7%AE%A1%E7%90%86)
 - [运筹学教程（第5版） (胡运权 郭耀煌 龚益鸣 程佳惠 陈秉正)](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E5%B7%A5%E7%A8%8B%E7%AE%A1%E7%90%86)
 
+## 软件工程
+- [软件工程](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B)
+- [统计分析与建模](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B)
