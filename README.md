@@ -124,10 +124,10 @@
 
 # 其他专业
 
-## 德语强化班 [nav]([https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E5%B7%A5%E7%A8%8B%E7%AE%A1%E7%90%86](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E5%BE%B7%E8%AF%AD%E5%BC%BA%E5%8C%96%E7%8F%AD))
+## 德语强化班 [nav](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E5%BE%B7%E8%AF%AD%E5%BC%BA%E5%8C%96%E7%8F%AD)
 - 新编大学德语
 
-## 数理金融/金融 [nav]([https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E5%B7%A5%E7%A8%8B%E7%AE%A1%E7%90%86](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E6%95%B0%E7%90%86%E9%87%91%E8%9E%8D%26%E9%87%91%E8%9E%8D))
+## 数理金融/金融 [nav](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E6%95%B0%E7%90%86%E9%87%91%E8%9E%8D%26%E9%87%91%E8%9E%8D)
 - 复变函数与积分变换
 - 货币金融学
 
