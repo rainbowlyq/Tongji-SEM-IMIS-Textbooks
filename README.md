@@ -6,11 +6,13 @@
 > 
 > 下载慢可以尝试[website1](https://tool.mintimate.cn/gh/)或者[website2](https://d.serctl.com/)
 > 
-> 欢迎 pull request 或者 email: 937839429@qq.com
+> 欢迎 pull request 补充，或者 email: 937839429@qq.com
 > 
-> 部分资源后附有百度云/蓝奏云链接
+> 部分资源后附有百度云/蓝奏云链接，如果链接失效请提交issues或email联系
 > 
 > **Tips:** 蓝奏云密码全为 **soda**
+> 
+> 所有资料仅供个人参考学习使用，严禁他用！
 
 # 目录
 
@@ -31,7 +33,7 @@
 
 # 通识必修课
 
-## 思政类
+## 思政类  `注：开卷考试，建议购买纸质书`
 
 - 360029_军事理论
 - 540038_思想道德修养与法律基础 | [2018版](https://pan.baidu.com/s/1Pq979gA1EuPFGIyZChQ9Ng?pwd=4hkj)
@@ -86,44 +88,45 @@
 - [010632_运筹学](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E4%B8%8E%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F/%E4%B8%93%E4%B8%9A%E5%9F%BA%E7%A1%80%E8%AF%BE/010632_%E8%BF%90%E7%AD%B9%E5%AD%A6) | [ocr](https://wwc.lanzout.com/iKoGF0aqnqta)
 - [010717_计量经济学](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E4%B8%8E%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F/%E4%B8%93%E4%B8%9A%E5%9F%BA%E7%A1%80%E8%AF%BE/010717_%E8%AE%A1%E9%87%8F%E7%BB%8F%E6%B5%8E%E5%AD%A6) | [第四版](https://wwc.lanzout.com/iELQa0aqnrda) | [学习指南与练习](https://wwc.lanzout.com/iI6lZ0aqnrvi)
 - 011071_经济学 | [baidu](https://pan.baidu.com/s/1hqoVPoD9pXwXoaVX5Ux3nQ?pwd=yeyh)
-- 011113_专业导论（经济管理类）
+- 011113_专业导论（经济管理类）`注：无需课本`
 
 # 专业必修课
 
 - [010552_信息系统分析与设计](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E4%B8%8E%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE%E8%AF%BE/010552_%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1)
-- [010616_管理信息系统(B)](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E4%B8%8E%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F/%E4%B8%93%E4%B8%9A%E5%9F%BA%E7%A1%80%E8%AF%BE/010429_%E7%AE%A1%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F(A))
-- [010693_管理建模与仿真](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E4%B8%8E%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE%E8%AF%BE/010693_%E7%AE%A1%E7%90%86%E5%BB%BA%E6%A8%A1%E4%B8%8E%E4%BB%BF%E7%9C%9F) | [仿真建模与分析（原书第5版）](https://wwc.lanzout.com/i8Z9p0aqns8b)
+- [010616_管理信息系统(B)](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E4%B8%8E%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F/%E4%B8%93%E4%B8%9A%E5%9F%BA%E7%A1%80%E8%AF%BE/010429_%E7%AE%A1%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F(A)) `注：同管理信息系统(A)`
+- [010693_管理建模与仿真](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E4%B8%8E%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE%E8%AF%BE/010693_%E7%AE%A1%E7%90%86%E5%BB%BA%E6%A8%A1%E4%B8%8E%E4%BB%BF%E7%9C%9F) | [仿真建模与分析（原书第5版）](https://wwc.lanzout.com/i8Z9p0aqns8b) `注：无需课本，仅供参考`
 - [010826_生产运作与管理](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E4%B8%8E%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE%E8%AF%BE/010826_%E7%94%9F%E4%BA%A7%E8%BF%90%E4%BD%9C%E4%B8%8E%E7%AE%A1%E7%90%86)
-- 010831_ERP原理及应用
-- 010832_IT项目管理与审计
-- 011069_电子商务（英）
+- 010831_ERP原理及应用 | [baidu](https://pan.baidu.com/s/1zzyx5luKYz12JBi0FcQBPQ?pwd=1mwu)
+- 010832_IT项目管理与审计 `注：过新暂无电子版，且开卷考试，建议购买纸质书`
+- 011069_电子商务（英） | [baidu](https://pan.baidu.com/s/13c_nlISqCTVmaB4xTYxnTg?pwd=ggth)
 - [011087_计算机网络与通讯](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E4%B8%8E%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE%E8%AF%BE/011087_%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B8%8E%E9%80%9A%E8%AE%AF)
 - [011091_数据结构](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E4%B8%8E%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE%E8%AF%BE/011091_%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
 - [011122_离散数学](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E4%B8%8E%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE%E8%AF%BE/011122_%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6)
-- [100043_JAVA语言程序设计](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E4%B8%8E%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE%E8%AF%BE/100043_JAVA%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1)
+- [100043_JAVA语言程序设计](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E4%B8%8E%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F/%E4%B8%93%E4%B8%9A%E5%BF%85%E4%BF%AE%E8%AF%BE/100043_JAVA%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1) | [baidu](https://pan.baidu.com/s/1Le5WtkhZ3m_-R2kDY4AHtQ?pwd=i4hs) | [题解](https://pan.baidu.com/s/1pabuD3rav6aBX6c34OMmjQ?pwd=dp55)
 
 # 专业选修课
 
-- 010014_操作系统
+- 010014_操作系统 | [baidu](链接：https://pan.baidu.com/s/1E-BkppFIadavWCFk9oEi5Q?pwd=i125)
 - 010179_经济法
 - [010341_市场营销](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E4%B8%8E%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F/%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE%E8%AF%BE/010341_%E5%B8%82%E5%9C%BA%E8%90%A5%E9%94%80)
 - [010378_质量管理](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E4%B8%8E%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F/%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE%E8%AF%BE/010378_%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86)
-- 010617_工程经济学
+- 010617_工程经济学 `注：开卷考试，建议购买纸质书`
 - [010810_项目管理](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E4%B8%8E%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F/%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE%E8%AF%BE/010810_%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86)
-- [010835_商务智能](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E4%B8%8E%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F/%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE%E8%AF%BE/010835_%E5%95%86%E5%8A%A1%E6%99%BA%E8%83%BD)
+- [010835_商务智能](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E4%B8%8E%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F/%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE%E8%AF%BE/010835_%E5%95%86%E5%8A%A1%E6%99%BA%E8%83%BD) `注：仅供参考`
 - [010839_物流与供应链管理](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E4%B8%8E%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F/%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE%E8%AF%BE/010839_%E7%89%A9%E6%B5%81%E4%B8%8E%E4%BE%9B%E5%BA%94%E9%93%BE%E7%AE%A1%E7%90%86)
 - [010843_服务管理](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E4%B8%8E%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F/%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE%E8%AF%BE/010843_%E6%9C%8D%E5%8A%A1%E7%AE%A1%E7%90%86) | [ocr](https://wwc.lanzout.com/iB9oz0aqnscf)
 - 010845_决策模拟
 - 010989_互联网金融
 - [011060_逻辑学概论](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E4%B8%8E%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F/%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE%E8%AF%BE/011060_%E9%80%BB%E8%BE%91%E5%AD%A6%E6%A6%82%E8%AE%BA)
 - 072373_大学语文与写作
-- 100531_Python程序设计
-- 100533_数据科学
+- 100531_Python程序设计 `使用自编教材` | [上海市高等学校信息技术水平考试参考教材](https://pan.baidu.com/s/14sfTJEdg8sqaGLGrhGbDfA?pwd=w1j6)
+- 100533_数据科学 `注：开卷考试`
 
 # 通识选修
 - [基于HTML5的APP开发教程](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E9%80%9A%E8%AF%86%E9%80%89%E4%BF%AE)
 - 博弈论 | [baidu](https://pan.baidu.com/s/18kiSBYIDv1bIIPCtx604JQ?pwd=bvc7)
 - 建筑史相关 | [baidu](https://pan.baidu.com/s/1sF_Zw8eT0zjVHqTlrlpc8Q?pwd=fbor)
+- 数学建模 | [baidu](https://pan.baidu.com/s/1p42VIov4-Wn4IujQwiSPnw?pwd=gcje)
 
 # 其他专业
 
