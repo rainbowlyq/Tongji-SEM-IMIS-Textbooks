@@ -106,7 +106,7 @@
 
 # 专业选修课
 
-- 010014_操作系统 | [baidu](链接：https://pan.baidu.com/s/1E-BkppFIadavWCFk9oEi5Q?pwd=i125)
+- 010014_操作系统 | [baidu](https://pan.baidu.com/s/1E-BkppFIadavWCFk9oEi5Q?pwd=i125)
 - 010179_经济法
 - [010341_市场营销](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E4%B8%8E%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F/%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE%E8%AF%BE/010341_%E5%B8%82%E5%9C%BA%E8%90%A5%E9%94%80)
 - [010378_质量管理](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E4%B8%8E%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F/%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE%E8%AF%BE/010378_%E8%B4%A8%E9%87%8F%E7%AE%A1%E7%90%86)
