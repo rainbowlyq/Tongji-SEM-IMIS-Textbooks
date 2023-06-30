@@ -6,9 +6,9 @@
 > 
 > 下载慢可以尝试[website1](https://tool.mintimate.cn/gh/)或者[website2](https://d.serctl.com/)
 > 
-> 欢迎 pull request 补充，或者 email: 937839429@qq.com
+> 欢迎 pull request 补充
 > 
-> 部分资源后附有百度云/蓝奏云链接，如果链接失效请提交issues或email联系
+> 部分资源后附有百度云/蓝奏云链接，如果链接失效请提交issues
 > 
 > **Tips:** 蓝奏云密码全为 **soda**
 > 
