@@ -73,8 +73,8 @@
 # 大类基础课
 
 - [010401_管理学概论](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E4%B8%8E%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F/%E5%A4%A7%E7%B1%BB%E5%9F%BA%E7%A1%80%E8%AF%BE%E7%A8%8B/010401_%E7%AE%A1%E7%90%86%E5%AD%A6%E6%A6%82%E8%AE%BA)
-- 122004_高等数学(B)上 | [baidu](https://pan.baidu.com/s/1S2uIvq1r0or8BjnP7Erv1A?pwd=d7kd)
-- 122005_高等数学(B)下
+- 122004_高等数学(B)上 | 第七版[baidu](https://pan.baidu.com/s/1RY_Wso3Jeg4KNqZ2RzRFlg?pwd=6v61) | 第六版[baidu](https://pan.baidu.com/s/1UEFYirQU_h_iZ1Hme6ey-w?pwd=uxhk)
+- 122005_高等数学(B)下 | 第七版[baidu](https://pan.baidu.com/s/1FOir1s_wMtOgSPfNfkQx_w?pwd=sgs2) | 第六版[baidu](https://pan.baidu.com/s/1WmAoBRSNulB-Enbc7VqoRw?pwd=glqd)
 - 122010_线性代数B | [baidu](https://pan.baidu.com/s/1pbYuzPaZPFlfeMqbl1ssIw?pwd=e3gn)
 - [122011_概率论与数理统计](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E4%B8%8E%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F/%E5%A4%A7%E7%B1%BB%E5%9F%BA%E7%A1%80%E8%AF%BE%E7%A8%8B/122011_%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1)
 
@@ -139,6 +139,7 @@
 - 国际贸易学 | [baidu](https://pan.baidu.com/s/1YlAeWCtCyH4H5NialuWnLw?pwd=zh0v)
 - 常微分方程 | [baidu](https://pan.baidu.com/s/1AvWcaAZmuWaVwaN2pFKQtQ?pwd=eo6g)
 - 数学分析 | [baidu](https://pan.baidu.com/s/1TgSNGHtRkarR-rhptxSrdg?pwd=sler)
+- 工程项目风险管理与保险 | [baidu](https://pan.baidu.com/s/1vGIBROfkvg1eR2ns8GZFvg?pwd=hjyy)
 
 ## 工程管理
 - [BIM应用导论](https://github.com/rainbowlyq/Tongji-SEM-MIS-Textbooks/tree/main/%E5%B7%A5%E7%A8%8B%E7%AE%A1%E7%90%86)
