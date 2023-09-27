@@ -3,14 +3,10 @@
 同济大学经济与管理学院**信息管理与信息系统**专业本科课程教材电子版部分收录（也会包含一些其他专业/选修课的书籍），持续更新ing...
 
 > 课程目录根据[2020级培养方案](https://jwc.tongji.edu.cn/jxhsjhjap/list.htm?grade=2020&code=01024&department=%E7%BB%8F%E6%B5%8E%E4%B8%8E%E7%AE%A1%E7%90%86%E5%AD%A6%E9%99%A2&name=%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E4%B8%8E%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F)
+>
+> 请根据**下方目录**查询自己需要的课本，受限于仓库容量，仓库中的文件数量有限（下载慢可以尝试[website1](https://tool.mintimate.cn/gh/)或者[website2](https://d.serctl.com/)）
 > 
-> 下载慢可以尝试[website1](https://tool.mintimate.cn/gh/)或者[website2](https://d.serctl.com/)
-> 
-> 欢迎 pull request 补充
-> 
-> 部分资源后附有百度云/蓝奏云链接，如果链接失效请提交issues
-> 
-> **Tips:** 蓝奏云密码全为 **soda**
+> 部分资源后附有百度云/蓝奏云链接（蓝奏云密码全部为**soda**），如果链接失效请提交issues
 > 
 > 所有资料仅供个人参考学习使用，严禁他用！
 
